@@ -96,7 +96,7 @@
                                         class="sr-only">icon</span></i>
                                 <h3 class="fwMedium">Matayos Sub-County</h3>
                                 <div class="dcscCaptionWrap">
-                                    <p>It is located in the lower region of Busia County. It has five wards namely:
+                                    <p>It is located in the lower region of Bungoma County. It has five wards namely:
                                         Mayenje, Burumba, Matayos South, Busibwabo and Bukhayo West wards. It is majorly
                                         occupied by Bakhayo sub tribe,Teso and Luo tribes.</p>
                                     <a href="{{route('subcounty.details')}}" class="readMoreLink fontAlter">Read More <i
@@ -117,7 +117,7 @@
                                         class="sr-only">icon</span></i>
                                 <h3 class="fwMedium">Butula Sub-County</h3>
                                 <div class="dcscCaptionWrap">
-                                    <p>It's one of the Sub Counties located in the lower region of Busia County. It
+                                    <p>It's one of the Sub Counties located in the lower region of Bungoma County. It
                                         borders Siaya County and Kakamega County. It has 6 wards namely : Marachi West,
                                         Marachi North, Marachi Central, Kingandole and Elugulu wards.</p>
                                     <a href="{{route('subcounty.details')}}" class="readMoreLink fontAlter">Read More <i
@@ -138,7 +138,7 @@
                                         class="sr-only">icon</span></i>
                                 <h3 class="fwMedium">Samia Sub-County</h3>
                                 <div class="dcscCaptionWrap">
-                                    <p>Samia Sub Countyis located in the lower region of Busia county. Its administered
+                                    <p>Samia Sub Countyis located in the lower region of Bungoma county. Its administered
                                         by Ms. Caroline Oduor, as Sub County administrator and it comprises four wards
                                         namely:Bwiri, Agenga/Nanguba, Namboboto/Nambuku and Nangina wards.</p>
                                     <a href="{{route('subcounty.details')}}" class="readMoreLink fontAlter">Read More <i
@@ -159,7 +159,7 @@
                                         class="sr-only">icon</span></i>
                                 <h3 class="fwMedium">Bunyala Sub-County</h3>
                                 <div class="dcscCaptionWrap">
-                                    <p>Bunyala Sub County is located in the lower region of Busia county. It borders
+                                    <p>Bunyala Sub County is located in the lower region of Bungoma county. It borders
                                         SamiaSub County, Siaya county and Uganda.The Sub County is administered by a Sub
                                         County Administrator, Mr.Nelson Otando.</p>
                                     <a href="{{route('subcounty.details')}}" class="readMoreLink fontAlter">Read More <i

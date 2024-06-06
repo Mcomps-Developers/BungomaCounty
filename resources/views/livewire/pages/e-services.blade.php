@@ -1,6 +1,6 @@
 <div>
     @section('title')
-        Busia Services
+        Bungoma Services
     @endsection
     <div class="pb-20 visual-block visal-theme-6 pt-120 pt-md-140 pt-xl-160 pb-md-70"
         style="background-image: url('{{ @asset('e-services/images/bg-visual-6.png') }}');">
@@ -9,9 +9,9 @@
                 <div class="col-12 col-lg-7 col-xl-6">
                     <!-- visual textbox -->
                     <div class="text-black visual-textbox">
-                        <h1>Welcome to Busia County
+                        <h1>Welcome to Bungoma County
                             eServices Portal.</h1>
-                        <p>Access our services easily and quickly. Create an account and get to enjoy Busia County
+                        <p>Access our services easily and quickly. Create an account and get to enjoy Bungoma County
                             services online.</p>
 
                         <div class="pt-10 buttons-block pb-30 pt-lg-50">

@@ -21,7 +21,7 @@
                     <div class="jobplugin__settings-head">
                         <h2 class="h5">Add Business</h2>
                         <span class="jobplugin__settings-head__bar jobplugin__bg-primary"></span>
-                        <p class="jobplugin__settings-head__text">Register your business with Busia Services. Fill the
+                        <p class="jobplugin__settings-head__text">Register your business with Bungoma Services. Fill the
                             correct details to avoid blacklisting.</p>
                     </div>
                     <!-- Settings Card -->

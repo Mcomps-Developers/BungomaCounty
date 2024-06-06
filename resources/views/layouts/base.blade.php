@@ -9,12 +9,12 @@ info@mcomps.co.ke--}}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="County Government of busia website. We are United For Development through exemplary service delivery." />
-    <meta name="keywords" content="busia, busia county, county, county government, " />
+        content="County Government of Bungoma website. We are United For Development through exemplary service delivery." />
+    <meta name="keywords" content="Bungoma, Bungoma county, county, county government, " />
     <meta name="author" content="Mcomps Limited! - Software Development Company in Kenya" />
     <!-- set the page title -->
     <title>@yield('title')</title>
-    <link href="{{asset('favicon.ico')}}" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
     <!-- inlcude google nunito sans font cdn link -->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
     <link

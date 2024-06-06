@@ -7,7 +7,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>@yield('title')</title>
-
+    <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
     <!-- Fonts -->
     <link rel="preconnect" href="{{ asset('e-services/fonts.googleapis.com/index.html') }}">
     <link rel="preconnect" href="{{ asset('e-services/fonts.gstatic.com/index.html') }}" crossorigin>

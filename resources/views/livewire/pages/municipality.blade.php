@@ -60,7 +60,7 @@
                                 around.</p>
                         </div>
                         <div class="dcsPatchWrap mb-5">
-                            <h3 class="mb-4">Busia Style Cultural Statue:</h3>
+                            <h3 class="mb-4">Bungoma Style Cultural Statue:</h3>
                             <p>One of the most common additions people make to their cars in order to keep the heat out
                                 is a windshield visor. Cars become warm in the summer because direct sunlight enters in
                                 through the windows. This is why we park in the shade whenever we can. Since the largest
@@ -78,7 +78,7 @@
                             </h3>
                             <ul class="list-unstyled pl-0 mx-n2 mb-0 mb-3">
                                 <li>
-                                    <a href="javascript:void(0);">Busia Municipality</a>
+                                    <a href="javascript:void(0);">Bungoma Municipality</a>
                                 </li>
                                 <li class="active">
                                     <a href="javascript:void(0);">Malaba Municipality</a>

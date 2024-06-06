@@ -377,7 +377,7 @@
                             </section>
                             <article class="widget widgetVote bgCover py-9 px-6"
                                 style="background-image: url({{@asset('assets/images/bg02.png')}});">
-                                <h3 class="h3Large">Let’s start explore County Government of Busia with travel guide.
+                                <h3 class="h3Large">Let’s start explore County Government of Bungoma with travel guide.
                                 </h3>
                                 <a href="javascript:void(0);"
                                     class="btn btnDarkAlter text-capitalize btn-sm mt-2 position-relative border-0 p-0"

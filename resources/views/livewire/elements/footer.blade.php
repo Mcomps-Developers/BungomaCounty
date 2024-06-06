@@ -70,7 +70,7 @@
                         </a>
                     </div>
                     <address class="mb-0 ftPlace">
-                        <p class="mb-2"><strong class="font-weight-normal">Busia, Kenya</strong></p>
+                        <p class="mb-2"><strong class="font-weight-normal">Bungoma, Kenya</strong></p>
                         <ul class="list-unstyled ftpScheduleList mb-0">
                             <li>
                                 <i class="icomoon-clock fwSemiBold icn mr-1 mr-sm-0"><span
@@ -87,7 +87,7 @@
                             <li>
                                 <i class="fas fa-envelope icn mr-1 mr-sm-0"><span class="sr-only">icon</span></i>
                                 <strong class="title font-weight-normal text-white">Email:</strong>
-                                <a href="mailto:info@busiacounty.go.ke">info@busiacounty.go.ke</a>
+                                <a href="mailto:info@Bungomacounty.go.ke">info@Bungomacounty.go.ke</a>
                             </li>
                         </ul>
                     </address>

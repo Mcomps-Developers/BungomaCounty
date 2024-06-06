@@ -29,7 +29,7 @@
                     <div class="row">
                         <div class="col-12 col-md-5">
                             <h2 class="fwMedium h3Small mb-1">H.E. Dr. Paul Nyongesa Otuoma</h2>
-                            <h3 class="text-secondary fwSemiBold fontBase">Governor, County Government of Busia</h3>
+                            <h3 class="text-secondary fwSemiBold fontBase">Governor, County Government of Bungoma</h3>
                             <hr class="mccSeprator mx-0 mt-2 mb-3">
                             <dl class="tmcbInfosList overflow-hidden">
                                 <dt>Expertice:</dt>

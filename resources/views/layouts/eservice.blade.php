@@ -6,7 +6,7 @@ info@mcomps.co.ke --}}
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="{{ asset('favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
     <!-- Page Title -->
     <title>@yield('title')</title>
     <!-- Google Fonts -->
@@ -44,9 +44,9 @@ info@mcomps.co.ke --}}
                 <strong class="logo">
                     <a href="{{ route('eservices') }}">
                         <img class="normal-logo" src="{{ asset('assets/images/logo.png') }}" width="175"
-                            height="43" alt="Busia Pay">
+                            height="43" alt="Bungoma Pay">
                         <img class="sticky-logo" src="{{ asset('assets/images/logo.png') }}" width="175"
-                            height="43" alt="Busia Pay">
+                            height="43" alt="Bungoma Pay">
                     </a>
                 </strong>
                 <!-- main menu -->
