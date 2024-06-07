@@ -161,6 +161,7 @@ info@mcomps.co.ke --}}
     <script src="{{ asset('e-services/js/vendor.js') }}"></script>
     <!-- jQuery Main -->
     <script src="{{ asset('e-services/js/jquery.main.js') }}"></script>
+    <script src="//code.tidio.co/r9gscctsoxsd7cwegjhsocp9b5jwfdwd.js" async></script>
     @livewireScripts
 </body>
 

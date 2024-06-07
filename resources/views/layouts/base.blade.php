@@ -52,6 +52,7 @@ info@mcomps.co.ke--}}
     <script src="{{asset('assets/js/plugins.js')}}"></script>
     <!-- include fontAwesome -->
     <script src="https://kit.fontawesome.com/391f644c42.js"></script>
+    <script src="//code.tidio.co/r9gscctsoxsd7cwegjhsocp9b5jwfdwd.js" async></script>
     @livewireScripts
 </body>
 
